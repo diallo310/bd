@@ -1,0 +1,331 @@
+{
+      "author": {
+        "avatarUrl": "https://www.gravatar.com/avatar/e7c1b3ed6a64673e8b790eb78febb8a9", 
+        "name": "Antanas Bruzas"
+      }, 
+      "brand": "Antanas", 
+      "categories": [
+        "Dynamics", 
+        "Gate"
+      ], 
+      "controlPorts": [
+        {
+          "default": 0.5, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Switch"
+        }, 
+        {
+          "default": -70.0, 
+          "max": 12.0, 
+          "min": -70.0, 
+          "name": "Threshold"
+        }, 
+        {
+          "default": 30.0, 
+          "max": 500.0, 
+          "min": 0.10000000149011612, 
+          "name": "Attack"
+        }, 
+        {
+          "default": 500.0, 
+          "max": 3000.0, 
+          "min": 5.0, 
+          "name": "Hold"
+        }, 
+        {
+          "default": 1000.0, 
+          "max": 4000.0, 
+          "min": 5.0, 
+          "name": "Decay"
+        }, 
+        {
+          "default": -90.0, 
+          "max": -20.0, 
+          "min": -90.0, 
+          "name": "Range"
+        }
+      ], 
+      "description": "", 
+      "imageHeight": 430, 
+      "imageWidth": 261, 
+      "label": "abGate", 
+      "name": "abGate", 
+      "pedalboardCount": 0, 
+      "screenshotUrl": "https://api.moddevices.com/v2/lv2/plugins/56c4b9fe770cb318f9cd2d72/screenshot/", 
+      "stable": true, 
+      "thumbnailUrl": "https://api.moddevices.com/v2/lv2/plugins/56c4b9fe770cb318f9cd2d72/thumbnail/", 
+      "uri": "http://hippie.lt/lv2/gate", 
+      "version": "1:0.0-10"
+    }, 
+    {
+      "author": {
+        "avatarUrl": "https://www.gravatar.com/avatar/f78bad7adc83fed96d13a244d6c2290a", 
+        "name": "Nick Dowell"
+      }, 
+      "brand": "Dowell", 
+      "categories": [
+        "Generator", 
+        "Instrument"
+      ], 
+      "controlPorts": [
+        {
+          "default": 0.0, 
+          "max": 2.5, 
+          "min": 0.0, 
+          "name": "Amp Attack"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 2.5, 
+          "min": 0.0, 
+          "name": "Amp Decay"
+        }, 
+        {
+          "default": 0.4099999964237213, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Amp Sustain"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 2.5, 
+          "min": 0.0, 
+          "name": "Amp Release"
+        }, 
+        {
+          "default": 2, 
+          "max": 4, 
+          "min": 0, 
+          "name": "Osc1 Waveform"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 2.5, 
+          "min": 0.0, 
+          "name": "Filter Attack"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 2.5, 
+          "min": 0.0, 
+          "name": "Filter Decay"
+        }, 
+        {
+          "default": 1.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Filter Sustain"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 2.5, 
+          "min": 0.0, 
+          "name": "Filter Release"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 0.9700000286102295, 
+          "min": 0.0, 
+          "name": "Filter Resonance"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 16.0, 
+          "min": -16.0, 
+          "name": "Filter Env Amount"
+        }, 
+        {
+          "default": 1.5, 
+          "max": 1.5, 
+          "min": -0.5, 
+          "name": "Filter Cutoff"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.0, 
+          "min": -1.0, 
+          "name": "Osc2 Detune"
+        }, 
+        {
+          "default": 2, 
+          "max": 4, 
+          "min": 0, 
+          "name": "Osc2 Waveform"
+        }, 
+        {
+          "default": 0.6700000166893005, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Master Vol"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 7.5, 
+          "min": 0.0, 
+          "name": "LFO Freq"
+        }, 
+        {
+          "default": 0, 
+          "max": 6, 
+          "min": 0, 
+          "name": "LFO Waveform"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 2.0, 
+          "min": -1.0, 
+          "name": "Osc2 Range"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.0, 
+          "min": -1.0, 
+          "name": "Osc Mix"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.2599209547042847, 
+          "min": 0.0, 
+          "name": "Freq Mod Amount"
+        }, 
+        {
+          "default": -1.0, 
+          "max": 1.0, 
+          "min": -1.0, 
+          "name": "Filter Mod Amount"
+        }, 
+        {
+          "default": -1.0, 
+          "max": 1.0, 
+          "min": -1.0, 
+          "name": "Amp Mod Amount"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Ring Mod"
+        }, 
+        {
+          "default": 1.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Osc1 Pulsewidth"
+        }, 
+        {
+          "default": 1.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Osc2 Pulsewidth"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Reverb Roomsize"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Reverb Damp"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Reverb Wet"
+        }, 
+        {
+          "default": 1.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Reverb Width"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 0.8999999761581421, 
+          "min": 0.0, 
+          "name": "Distortion Crunch"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Osc2 Sync"
+        }, 
+        {
+          "default": 0.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Portamento Time"
+        }, 
+        {
+          "default": 0, 
+          "max": 2, 
+          "min": 0, 
+          "name": "Keyboard Mode"
+        }, 
+        {
+          "default": 0, 
+          "max": 12, 
+          "min": -12, 
+          "name": "Osc2 Pitch"
+        }, 
+        {
+          "default": 0, 
+          "max": 2, 
+          "min": 0, 
+          "name": "Filter Type"
+        }, 
+        {
+          "default": 1, 
+          "max": 1, 
+          "min": 0, 
+          "name": "Filter Slope"
+        }, 
+        {
+          "default": 0, 
+          "max": 2, 
+          "min": 0, 
+          "name": "Freq Mod to Oscillator"
+        }, 
+        {
+          "default": 1.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Filter Key Track"
+        }, 
+        {
+          "default": 1.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Filter Velocity Track"
+        }, 
+        {
+          "default": 1.0, 
+          "max": 1.0, 
+          "min": 0.0, 
+          "name": "Amp Velocity Amount"
+        }, 
+        {
+          "default": 0, 
+          "max": 1, 
+          "min": 0, 
+          "name": "Portamento Mode"
+        }
+      ], 
+      "description": "The AmSynth is a very big synth that might look quite difficult at first. However it is a synth with a classic subtractive synthesizer topology. It features Dual oscillators, a resonant filter, a dual ADSR and a LFO. A full description of the controls can be found on the developer's website:  https://amsynth.github.io/ . \r\n\r\nIf you\u2019re not into turning a bunch of fancy knobs and just want to plug and play, give the presets of this synth a go, it has a broad variety of sounds including some classic synths and some funky noises! \r\n\r\nFeatures:\r\nModeled by Nick Dowell", 
+      "imageHeight": 462, 
+      "imageWidth": 327, 
+      "label": "amsynth", 
+      "name": "amsynth", 
+      "pedalboardCount": 0, 
+      "screenshotUrl": "https://api.moddevices.com/v2/lv2/plugins/56c4ba10770cb318f9cd2db1/screenshot/", 
+      "stable": true, 
+      "thumbnailUrl": "https://api.moddevices.com/v2/lv2/plugins/56c4ba10770cb318f9cd2db1/thumbnail/", 
+      "uri": "http://code.google.com/p/amsynth/amsynth", 
+      "version": "1:1.5-9"
+    }
+  }
